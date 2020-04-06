@@ -1,7 +1,7 @@
 # Early-Detection-of-PD-using-SPECT
 Early Detection of Parkinson's Disease is done using SPECT Image. The binary classification of PD patient and Healthy Control is implemented using CNN.
 
-Dataset is taken from www.ppmi.org
+Dataset is taken from https://www.ppmi-info.org/
 
 Summary:\
   -Pre-processing of data includes normalization and binarization.\
